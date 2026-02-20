@@ -1,9 +1,9 @@
 # Hey, I'm Sergy 👋
 
-**Data Scientist · Developer · Curious mind**
+**SRE at BBVA Technology · AI & Data Enthusiast · Vibe Coder**
 
-I work at **BBVA Technology**, turning data into insights and code into solutions.
-I love building things, exploring data, and learning something new every day.
+I help companies automate and optimize their processes through data and AI.
+Always learning, always building — self-taught mindset with a software engineering background.
 
 ### 🔗 Find me around the web
 
@@ -13,10 +13,11 @@ I love building things, exploring data, and learning something new every day.
 
 ### 🚀 What I'm up to
 
-- 🔭 Building personal projects *(details coming soon)*
-- 📊 Working with data, models, and everything in between
-- 💻 Writing code that solves real problems
-- ☕ Probably drinking coffee right now
+- 🤖 Deep into **AI agents**, LLMs, and automation
+- 📊 Turning **data** into decisions with Power BI & Python
+- 🎨 **Vibe coding** side projects — currently building [mishogi.app](https://mishogi.app)
+- 🏢 Helping companies optimize processes at **BBVA Technology**
+- 📚 Self-learner — always picking up something new
 
 ### 📊 GitHub Stats
 
