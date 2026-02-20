@@ -7,8 +7,8 @@ I love building things, exploring data, and learning something new every day.
 
 ### 🔗 Find me around the web
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/bysergygp)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gonzalez-piqueras/)
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hashnode&logoColor=white)](https://your-blog-url.com)
 
 ### 🚀 What I'm up to
